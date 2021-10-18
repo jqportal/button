@@ -1,0 +1,19 @@
+:root {
+  --primary-background-color: #3a7cc2;
+  --primary-color: #fff;
+  --primary-focus-border: #343a40;
+  --primary-hover-color: #074a92;
+  --disabled-background-color: #cfd0d1;
+  --disabled-color: #7c7e7f;
+
+
+  --secondary-background-color: #ebebee;
+  --secondary-color: #343a40;
+  --secondary-border-color: #39393a;
+
+  --font-size: "12px";
+  --font-family:"sans-serif";
+  --font-weight: 400;
+  --border-radius: 5px;
+  --cursor: pointer;
+}

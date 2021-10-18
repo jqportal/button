@@ -1,0 +1,11 @@
+.button-panel-row{
+    display:flex;
+	flex-flow:wrap row;
+}
+
+.button-panel-column{
+    display:flex;
+	flex-flow:wrap column;
+    justify-content: center;
+    align-items: flex-start;
+}
